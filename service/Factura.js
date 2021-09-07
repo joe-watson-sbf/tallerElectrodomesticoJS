@@ -85,4 +85,4 @@ const reporte = ()=> {
 
 
 
-module.exports = reporte
+module.exports = {getElectrodomesticosGeneral, getNeveras, getTelevisores, reporte}
