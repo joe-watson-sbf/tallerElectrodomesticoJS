@@ -10,11 +10,8 @@ class Televisor extends Electrodomestico {
 
     obtenerPrecio(){
         let total = super.precioBase();
-        console.log("Total 0 : ", total);
         if(this.pulgadas > 40) total += (super.precioBase() * 30)/100;
-        console.log("Total 1 : ", total);
         if(this.tdt) total += 250000;
-        console.log("Total 2 : ", total);
         return total;
     }
 }

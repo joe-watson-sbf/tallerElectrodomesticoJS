@@ -16,7 +16,7 @@ class FakeDataElectro{
     }
     
     #generateGeneral(){
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < 8; i++) {
             if(i<5) this.lista.push(new Electrodomestico('b', 'nacional'))
             this.lista.push(new Electrodomestico('a', 'importado'))
         }
