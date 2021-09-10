@@ -12,3 +12,5 @@ Despues de clonar la App, ejecuta este commando en su terminal con la ruta del p
       La app ejecuta con FakeData, no se permite a ingresar datos por falta de tiempo lollllllll
       En la clase Factura hay todo los filtros necesarios
 
+
+El mismo proyecto en **JAVA** : https://github.com/joe-watson-sbf/tallerElectrodomesticoJAVA 
